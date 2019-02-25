@@ -1,8 +1,7 @@
-body
-{
+body {
   margin-left: 10%;
-  margin-right:10%;
-  align-content:center;
+  margin-right: 10%;
+  align-content: center;
   background-image: url("https://courses.cs.washington.edu/courses/cse190m/09sp/labs/2-journal/images/background.gif");
 }
 
